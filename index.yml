@@ -1,0 +1,8 @@
+- id: performerCustomFieldCounter
+  name: Performer Custom Field Counter
+  metadata:
+    description: Show a counter based on custom field.
+  version: 1.0
+  date: 2026-09-25 00:00:00
+  path: performer-custom-field-counter.zip
+  sha256: 159A1078CAB23C248031C4ACD41DBB329A5BF0F7AD65FF84F3F35BB618AA17D8
