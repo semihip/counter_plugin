@@ -1,0 +1,9 @@
+name: Performer Custom Field Counter
+description: Displays the sum of the custom_field scene custom field on performer cards.
+version: 1.0.0
+
+ui:
+  javascript:
+    - performer-custom-field-counter.js
+  css:
+    - performer-custom-field-counter.css
