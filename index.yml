@@ -2,7 +2,7 @@
   name: Performer Custom Field Counter
   metadata:
     description: Show a counter based on custom field.
-  version: 2.0
-  date: 2026-09-25 00:00:00
+  version: 2.1
+  date: 2026-10-26 00:00:00
   path: performer-custom-field-counter.zip
-  sha256: 56983f0df602fdf3953bc7b6aa3d69b868766663021096a143bcfbc4df442713
+  sha256: d5b4c88fedc9cfddf3e2cd27e71be7b80f145f18894f4744f81d5baf3deb9c5d
